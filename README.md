@@ -32,12 +32,11 @@ calculadoraIMC/
 
 ##### Pré-requisitos
 
-Node.js (versão 18 ou superior)
-npm
-Expo CLI instalado globalmente (npm install -g expo-cli)
-Dispositivo físico com Expo Go ou emulador configurado
+- Node.js (versão 18 ou superior)
+- npm
+- Expo CLI instalado globalmente (npm install -g expo-cli)
 
 1. Clone o repositório
 2. Instale as dependências
 3. Inicie o servidor de desenvolvimento
-4. Execute no dispositivo
+4. Execute no dispositivo ou web
